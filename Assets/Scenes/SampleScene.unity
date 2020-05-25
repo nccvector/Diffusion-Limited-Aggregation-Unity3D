@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   look_object: {fileID: 1690066637}
-  cam_dist_speed: 0.5
+  cam_dist_speed: 0.9
   speed: 0.5
 --- !u!1001 &1210733092
 PrefabInstance:

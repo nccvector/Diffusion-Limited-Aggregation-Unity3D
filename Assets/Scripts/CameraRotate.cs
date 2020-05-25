@@ -20,7 +20,7 @@ public class CameraRotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        distance = 15f + Time.time * cam_dist_speed;
+        distance = 15f + Time.timeSinceLevelLoad * cam_dist_speed;
         transform.position = new Vector3(Mathf.Sin(Time.time * speed)*distance, 0, Mathf.Cos(Time.time * speed)*distance);
         transform.LookAt(look_object.transform, Vector3.up);
     }
