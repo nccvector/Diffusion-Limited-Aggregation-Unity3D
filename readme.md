@@ -4,7 +4,7 @@
 
 ## Usage:
 - Make sure you have Unity3D installed on your system
-- Go to the Diffusion-Limited-Aggregation\Assets\Scenes directory and open the scene file (let Unity3D take care of the rest)
+- Go to the Assets/Scenes/ directory and open the scene file (let Unity3D take care of the rest)
 - Press spacebar to restart
 
 ### Note:
